@@ -11,7 +11,7 @@ This code has three functions:
 - To have a timer for the Rubik's Cube
 - To store the times in a separate .txt file
 
-In order to give the scramble of the cube, there were three lists that contains the three different types of rotation or moves (as specified in the code), the clockwise, counterclockwise, and double turn.
+In order to scramble of the cube, there were three lists that contains the three different types of rotation or moves (as specified in the code), the clockwise, counterclockwise, and double turn.
 
 There is a random number generator that was used in order to determine which type of rotation would be used, with each type of rotation being assigned with a certain number.
 
