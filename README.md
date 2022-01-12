@@ -6,7 +6,7 @@ This is the first project by Harry2166.
 For those without experience in using or solving a Rubik's Cube, refer to the following link:
 https://ruwix.com/the-rubiks-cube/notation/
 
-This code has three functions:
+This project has three functions:
 - To give a scramble for the Rubik's Cube
 - To have a timer for the Rubik's Cube
 - To store the times in a separate .txt file
