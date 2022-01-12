@@ -13,6 +13,8 @@ This code has three functions:
 
 In order to scramble of the cube, there were three lists that contains the three different types of rotation or moves (as specified in the code), the clockwise, counterclockwise, and double turn.
 
-There is a random number generator that was used in order to determine which type of rotation would be used, with each type of rotation being assigned with a certain number.
+There is a random number generator that was used in order to determine which type of rotation would be used, with each type of rotation being assigned with a certain number from 1 to 3.
+
+From then, based on the number, the random.choice() function would be used in order to pick the move to be added for the scramble. In order to make sure that moves are not doubled or cancelled, the index of the previous element of the list in the scramble would be compared to the current index of the generated elemenet. If they were equivalent to each other, a while loop will be used to randomize the values until their indices would be different.
 
 *This is my first project that I've done and posted here in GitHub, it isn't the best and I know it can be improved but it's worth posting here!*
