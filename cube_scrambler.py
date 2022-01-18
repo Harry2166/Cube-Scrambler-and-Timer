@@ -64,6 +64,7 @@ def length(size:int): #this creates the scramble
             
     return " ".join(scramble)
 
+# the following code (with some revisions) come from: https://www.codespeedy.com/how-to-create-a-stopwatch-in-python/
 def time_convert(s): #code for the timer
     
   m = s // 60
