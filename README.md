@@ -7,7 +7,7 @@ For those without experience in using or solving a Rubik's Cube, refer to the fo
 https://ruwix.com/the-rubiks-cube/notation/
 
 This project has three functions:
-- To give a scramble for the Rubik's Cube
+- To create a scramble for the Rubik's Cube
 - To have a timer for the Rubik's Cube
 - To store the times in a separate .txt file
 
