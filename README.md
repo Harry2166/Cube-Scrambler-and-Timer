@@ -1,8 +1,6 @@
 # Cube-Scrambler-and-Timer
 A Rubik's Cube scrambler and timer made in Python.
 
-This is the first project by Harry2166.
-
 For those without experience in using or solving a Rubik's Cube, refer to the following link:
 https://ruwix.com/the-rubiks-cube/notation/
 
